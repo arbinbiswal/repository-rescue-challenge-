@@ -9,3 +9,5 @@ This repository is intentionally set up with repository history and branch workf
 - an abandoned branch containing partial changes
 
 Use this file as a reference when reviewing the repo history and workflow.
+
+- current workflow is inconsistent and needs cleanup.
