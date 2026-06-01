@@ -2,7 +2,7 @@
 
 ## Story
 
-A development team has been working directly on `main` and using inconsistent branch names. They have also left a configuration drift issue in the documentation. Your responsibility is to stabilize the repository before the next release by cleaning the Git workflow, resolving a merge conflict, and fixing the environment instructions.
+A development team has been working directly on `main` and using inconsistent branch names. The history includes messy direct commits and poor branch names. They have also left a configuration drift issue in the documentation. Your responsibility is to stabilize the repository before the next release by cleaning the Git workflow, resolving a merge conflict, and fixing the environment instructions.
 
 ## Learning Objective
 
